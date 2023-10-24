@@ -1,3 +1,4 @@
+################################################
 # For Unix-like systems, tested on Linux (Kernel 6.5.8)
 # Connects to Mullvad VPN server nz-akl-wg-301
 ################################################
@@ -6,6 +7,13 @@
 # 2. wireguard (with /etc/wireguard as a valid path, and wg-quick as a valid terminal command)
 # 3. A valid internet connection
 # 4. super user permissions
+################################################
+# License: GNU General Public License v3.0
+# Author: Logan Cammish
+################################################
+# hope this is useful to you!
+################################################
+
 
 echo Please choose either:
 echo 1. Connect to Mullvad service (Wireguard)
