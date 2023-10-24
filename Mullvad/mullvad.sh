@@ -5,8 +5,8 @@
 # Requires:
 # 1. curl
 # 2. wireguard (with /etc/wireguard as a valid path, and wg-quick as a valid terminal command)
-# 3. A valid internet connection
-# 4. super user permissions
+# 3. a valid internet connection
+# 4. sudo permissions
 ################################################
 # License: GNU General Public License v3.0
 # Author: Logan Cammish
