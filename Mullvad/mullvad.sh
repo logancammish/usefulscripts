@@ -10,6 +10,7 @@
 ################################################
 # License: GNU General Public License v3.0
 # Author: Logan Cammish
+# Version: v1.1
 ################################################
 # hope this is useful to you!
 ################################################
