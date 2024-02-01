@@ -1,3 +1,5 @@
+#!/bin/bash
+
 ################################################
 # For Unix-like systems, tested on Linux (Kernel 6.5.8)
 # Connects to Mullvad VPN server nz-akl-wg-301
@@ -14,7 +16,6 @@
 ################################################
 # hope this is useful to you!
 ################################################
-
 
 echo Please choose either:
 echo 1. Connect to Mullvad service (Wireguard)
